@@ -1,5 +1,5 @@
 # git_demo
 
 Yet Another Person
-Bill
+Bill Yang
 Another Person
